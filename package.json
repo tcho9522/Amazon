@@ -1,0 +1,22 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcho9522/Amazon.git"
+  },
+  "author": "Tim Cho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcho9522/Amazon/issues"
+  },
+  "homepage": "https://github.com/tcho9522/Amazon#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
